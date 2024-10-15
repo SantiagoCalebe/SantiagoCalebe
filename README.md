@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-<h4 align="center"> 🔭 I’m currently working on **HaxeFlixel 2.0**
+<h4 align="center"> 🔭 I’m currently working on HaxeFlixel 2.0
 
  🌱 I’m currently learning **Haxe and Lua**
 
