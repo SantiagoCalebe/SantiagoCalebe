@@ -14,5 +14,5 @@
 <p align="center">
 <a href="https://www.youtube.com/c/santiagocalebe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santiagocalebe" height="30" width="40" /></a>
 <a href="https://x.com/santiagocalebe_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santiagocalebe" height="30" width="40" /></a>
-<a href="https://gamebanana.com/members/3360623" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santiagocalebe" height="30" width="40" /></a>
+<a href="https://gamebanana.com/members/3360623" target="blank"><img align="center" src="https://brandfetch.com/gamebanana.com?view=library&library=default&collection=logos&asset=idrTvRHVcJ" alt="santiagocalebe" height="30" width="40" /></a>
 </p>
