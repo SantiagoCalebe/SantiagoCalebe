@@ -2,7 +2,7 @@
   
 ![SantiagoGB2](https://github.com/user-attachments/assets/aca18c25-bf2e-45d1-8a11-8ef26e18739a)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=SantiagoCalebe&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SantiagoCalebe&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
