@@ -14,8 +14,6 @@ class SantiagoProfile {
     public var askMeAbout:Array<String> = ["game dev", "UI/UX (i'm not good at ts)"];
 
     public var links:Map<String, String> = [
-        "Twitter" => "https://x.com/santideveloper",
-        "Youtube" => "https://youtube.com/@santiagocalebe",
         "Github" => "https://github.com/santiagocalebe",
         "Website" => "https://santiagocalebe.github.io/"
     ].map(e -> e);
@@ -38,6 +36,6 @@ class SantiagoProfile {
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=000000)](https://x.com/santideveloper) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@santiagocalebe)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiagocalebe)  [![Website](https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://santiagocalebe.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiagocalebe)  [![Website](https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://santiagocalebe.github.io/)
 
 </div>
