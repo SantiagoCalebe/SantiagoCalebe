@@ -42,7 +42,7 @@ Aqui estão algumas das minhas ferramentas preferidas (e companheiras de longa d
 - **Refinando meus conhecimentos em Haxe e OpenFL**  
 - Explorando **integração de som e animação** em jogos 2D  
 - Aprendendo mais sobre **game architecture** e padrões de design  
-- Dando meus primeiros passos com **JavaScript**
+- Dando meus primeiros passos com **Java**
 
 ---
 
