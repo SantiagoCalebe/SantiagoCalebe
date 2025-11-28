@@ -1,6 +1,5 @@
 <div align="center" style="line-height: 0; margin: 0; padding: 0;">
-        <img width="512" height="auto" src="https://github.com/user-attachments/assets/b2d6472b-da85-4ece-a963-d0cd0283e3fd" style="display: block; margin: 0; padding: 0;" />
-    <img width="682" height="auto" src="https://github.com/user-attachments/assets/f3b05399-a84b-427c-a2d2-9b787eeeb073" style="display: block; margin: 0; padding: 0;" />
+    <img width="512" height="auto" src="https://github.com/user-attachments/assets/f6aae31a-4c19-4e4d-9005-21e515216db0" style="display: block; margin: 0; padding: 0;" />
 </div>
 
 # Heya! Santi here!
