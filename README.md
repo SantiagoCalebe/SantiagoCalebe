@@ -1,6 +1,4 @@
-<div align="center" style="line-height: 0; margin: 0; padding: 0;">
-    <img width="512" height="auto" src="https://github.com/user-attachments/assets/f6aae31a-4c19-4e4d-9005-21e515216db0" style="display: block; margin: 0; padding: 0;" />
-</div>
+
 
 # Heya! Santi here!
 
