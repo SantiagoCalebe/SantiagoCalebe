@@ -1,11 +1,65 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=santiagocalebe&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<div align="center">
+  <img height="500" src="img.png"  />
+</div>
 
-<div align='left'><img width="460" height="460" alt="173545965" src="https://github.com/user-attachments/assets/c923a9a2-3594-4a67-a287-ebecc6e05da8" /></div>
+<h1 align="center">Olá! Meu nome é Santiago!</h1>
 
-# Olá, meu nome é Santiago!
+###
+
+<p align="center">Desenvolvedor e Programador.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" height="30" alt="haxe logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santiagocalebe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagocalebe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"  />
+</div>
+
+###
+
+
+###
+
+<div align="center">
+  <a href="https://instagram.com/ssantiagocalebe" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/ssantiagocalebe" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="60" height="40" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/santiagocalebe/santiagocalebe/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="left">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiagocalebe)  [![Website](https://img.shields.io/badge/Website-4B0082?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://santiagocalebe.github.io/)
-
 </div>
+
+###
