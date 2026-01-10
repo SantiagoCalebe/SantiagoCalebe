@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">Desenvolvedor e Programador.</p>
+<p align="center">Programador e GameDeveloper.</p>
 
 ###
 
