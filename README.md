@@ -97,7 +97,9 @@ Thanks for visiting my profile! <3 I hope to see you again soon..
 <br><br><br><br><br><br>
 
 
-<div align='center'><img width="300" src="./kuromi2.gif" alt="Kuromi" />
+<div align='center'>
+  
+<img width="300" src="./kuromi2.gif" alt="Kuromi" /><br>
 "In programming, the hard part isn't solving problems, but deciding what problems to solve." <br>
 — Paul Graham
 </div>
